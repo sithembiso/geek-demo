@@ -4,6 +4,7 @@ testmodules = [
     'test.test_calculator',
     ]
 
+# hey comment
 suite = unittest.TestSuite()
 
 for t in testmodules:
