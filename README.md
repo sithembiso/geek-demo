@@ -1,3 +1,3 @@
 Documentation
 =============
-Something new here
+Something new here. And that's that!
